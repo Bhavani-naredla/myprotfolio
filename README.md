@@ -4,7 +4,7 @@ Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,You
 1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
 2. Demo Video URL: https://youtu.be/8ErNjxboKGo
 3. GitHub Repository URL: https://github.com/Bhavani-naredla/myprotfolio/edit/main/README.md
-4. Industry : E-commerce
+4. Industry : Finance 
 # Roles and responsibilities
 1. Bhavani Naredla ( Developed, Deploy, Admin)
 # Azure services used:
