@@ -1,7 +1,7 @@
 Port folio
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,Your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 # Project Details
-1. Project Demo URL:
+1. Project Demo URL: https://bhavaniportfolio1999.z13.web.core.windows.net/
 2. Demo Video URL: 
 3. GitHub Repository URL: https://github.com/Bhavani-naredla/myprotfolio/edit/main/README.md
 4. Industry : Finance 
@@ -36,3 +36,29 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 Final Project Statement:
 Elevate your digital experience with 'Electro,' a dynamic platform offering affordable, cutting-edge electronic gadgets curated to empower students and tech enthusiasts alike, bridging the gap between innovation and accessibility.
+
+# Screenshot's:
+# Storage Account:
+![Storage Account](https://github.com/Bhavani-naredla/myprotfolio/assets/162297817/cfc8257d-807f-415e-993c-a9b8b4b301a5)
+
+# Static Website:
+![staticwebsite](https://github.com/Bhavani-naredla/myprotfolio/assets/162297817/46377797-6e8e-4e8a-8a79-f6b4a02bd87f)
+
+# Container:
+![Container](https://github.com/Bhavani-naredla/myprotfolio/assets/162297817/a9995852-e68c-4988-8ea3-635ac491253d)
+
+# Backup Vault:
+![backupvault](https://github.com/Bhavani-naredla/myprotfolio/assets/162297817/a29be528-4521-4914-a48c-de5d749d1d43)
+
+# Backup Policy:
+![backuppolicy](https://github.com/Bhavani-naredla/myprotfolio/assets/162297817/facf3466-e9bc-43c8-b90f-b3d1615c10c1)
+
+# Azure Bot:
+![azurebot](https://github.com/Bhavani-naredla/myprotfolio/assets/162297817/5c5009f3-1f9c-4401-82a6-ea413e66228d)
+
+# Testing in Webchat:
+![test in webchat](https://github.com/Bhavani-naredla/myprotfolio/assets/162297817/6c4c66ad-e583-4b37-a750-b86a2b67abde)
+
+
+# Resource Virtualizer:
+![resources visualizer](https://github.com/Bhavani-naredla/myprotfolio/assets/162297817/58ff295b-7379-4d90-9bc2-d3f8c2b50877)
