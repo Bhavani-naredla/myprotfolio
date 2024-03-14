@@ -2,7 +2,7 @@ Port folio
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,Your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 # Project Details
 1. Project Demo URL: https://bhavaniportfolio1999.z13.web.core.windows.net/
-2. Demo Video URL: 
+2. Demo Video URL: https://youtu.be/jmJLn6cNqXc
 3. GitHub Repository URL: https://github.com/Bhavani-naredla/myprotfolio/edit/main/README.md
 4. Industry : Finance 
 # Roles and responsibilities
